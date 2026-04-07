@@ -51,10 +51,10 @@
 
 ---
 ## 테스트
-- **https://fittrack-gold.vercel.app/login
-- **테스트 코치 계정 : 01001234567
-- **패스워드 : 4567
-- **테스트 코치 계정 : 01001230001
-- **패스워드 : 0001
+- **https://fittrack-gold.vercel.app/login**
+- **테스트 코치 계정** : 01001234567
+- **패스워드** : 4567
+- **테스트 회원 계정** : 01001230001
+- **패스워드** : 0001
 ---
 Copyright © 2026 FitTrack Team. All rights reserved.
